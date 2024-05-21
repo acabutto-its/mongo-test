@@ -1,0 +1,10 @@
+{
+  "name": "mongotest",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {
+    "mongodb": "6.6.2"
+  }
+}
